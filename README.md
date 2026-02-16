@@ -7,7 +7,7 @@ In this workshop, CBS members will learn:
 - How to collaborate using branches and pull requests
 - How to contribute Python or R code to a shared repository
 
------
+---
 
 ## Git Commands
 ### 1. Clone the Repository
@@ -24,8 +24,8 @@ In this workshop, CBS members will learn:
 
 ## Repository Structure
 This repository is organized into:
+- `challenges/` — Optional coding challenges
 - `python/` — Python exercises
 - `r/` — R exercises
-- `challenges/` — Optional coding challenges
 
 Each folder contains its own README with contribution instructions.
