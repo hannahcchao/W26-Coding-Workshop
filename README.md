@@ -4,8 +4,8 @@ Welcome to the Winter '26 Intro to GitHub & Coding Workshop!
 
 In this workshop, CBS members will learn:
 - The fundamentals of Git and GitHub workflow
-- How to collaborate using branches and pull requests
-- How to contribute Python or R code to a shared repository
+- The fundamentals of Python and R programming
+- How to contribute to a programming project on a shared repository
 
 Here's a GitHub tutorial you can also refer to: https://docs.github.com/en/get-started/start-your-journey/hello-world
 
