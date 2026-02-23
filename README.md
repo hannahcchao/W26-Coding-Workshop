@@ -12,7 +12,7 @@ Here's a GitHub tutorial you can also refer to: https://docs.github.com/en/get-s
 ---
 
 ## Git Commands
-### 1. Clone the Repository
+### 1. Fork & Clone the Repository
 ### 2. Navigate Into the Project
 ### 3. Create a New Branch
 ### 4. Make Changes to Files
