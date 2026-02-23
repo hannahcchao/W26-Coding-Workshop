@@ -7,6 +7,8 @@ In this workshop, CBS members will learn:
 - How to collaborate using branches and pull requests
 - How to contribute Python or R code to a shared repository
 
+Here's a GitHub tutorial you can also refer to: https://docs.github.com/en/get-started/start-your-journey/hello-world
+
 ---
 
 ## Git Commands
