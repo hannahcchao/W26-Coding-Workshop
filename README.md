@@ -15,6 +15,11 @@ Here's a GitHub tutorial you can also refer to: https://docs.github.com/en/get-s
 
 ## Git Workflow
 ### 1. Create your own copy of the repository
+#### Forking
+Forking allows you to create a copy of an existing repository on your own account. This lets you make your own changes without changing the original repository. <br/>
+Let's try forking this repository! Click the fork button at the top right corner of this workshop repository to create your own copy.
+<img width="638" height="73" alt="image" src="https://github.com/user-attachments/assets/77505364-91f6-4ae5-b4ec-2e9c855a0d79" />
+
 ### 2. Create a branch
 ### 3. Make and save changes
 ### 4. Push to GitHub
