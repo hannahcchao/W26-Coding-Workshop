@@ -7,7 +7,7 @@ In this workshop, CBS members will learn:
 - The fundamentals of Python and R programming
 - How to contribute to a programming project on a shared repository
 
-First, make sure you have Git downloaded. Use this website and download the correct version based on your operating system: https://git-scm.com/install/
+First, make sure you have Git downloaded. Download the correct version based on your operating system here: https://git-scm.com/install/
 
 Here's a GitHub tutorial you can also refer to: https://docs.github.com/en/get-started/start-your-journey/hello-world
 
