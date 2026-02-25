@@ -46,13 +46,18 @@ cd W26-Coding-Workshop
 ```
 Then, create a branch with a descriptive name using:
 ```
-git checkout -b your-name-python
+git checkout -b <your-name-python>
 ```
 To check the branch you're currently working on, use:
 ```
 git branch
 ```
-The current branch will have a `*` next to it.
+The current branch will have a `*` next to it. <br/>
+
+Note: If you want to switch to another branch, use the command:
+```
+git checkout <branch-name>
+```
 
 ### 3. Make and save changes
 Now that you're working on your own branch, let's practice some programming skills! <br/>
