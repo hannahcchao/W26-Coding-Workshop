@@ -29,6 +29,10 @@ git clone <your-fork-url>
 To find your fork url, click on the green code button and copy url as shown below. <br/>
 <img width="40%" alt="image" src="https://github.com/user-attachments/assets/2cb59a57-5466-4cb2-8d39-fd8b07490974"/>
 
+You should now have a local version of the repository on your computer.
+
+If you're getting an error saying "Invalid username or token", you may need to create a Personal Access Token. <br/>
+Go to Settings -> Developer Settings (at the bottom left) -> Personal Access Tokens. Then generate a token (classic), give access to repo, and set expiration to 7 days. Paste the token when prompted and this should solve the error.
 
 ### 2. Create a branch
 ### 3. Make and save changes
