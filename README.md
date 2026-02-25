@@ -29,19 +29,49 @@ git clone <your-fork-url>
 To find your fork url, click on the green code button and copy url as shown below. <br/>
 <img width="40%" alt="image" src="https://github.com/user-attachments/assets/2cb59a57-5466-4cb2-8d39-fd8b07490974"/>
 
-You should now have a local version of the repository on your computer.
-
 If you're getting an error saying "Invalid username or token", you may need to create a Personal Access Token. <br/>
 Go to Settings -> Developer Settings (at the bottom left) -> Personal Access Tokens. Then generate a token (classic), give access to repo, and set expiration to 7 days. Paste the token when prompted and this should solve the error.
 
+You should now have a local version of the repository on your computer. Open the repository folder on VS Code. The folder structure should look something like this: <br/>
+
+<img width="256" height="173" alt="image" src="https://github.com/user-attachments/assets/b7afc7a2-6b51-4f58-80b5-dd7a0a855a91" />
+
+
 ### 2. Create a branch
+Branching creates an individual environment for you to make your own changes, without affecting the main branch. Once you submit your branch, it will be reviewed and your changes can be merged back to the main branch. This allows multiple people to safely collaborate on a project.
+
+First, make sure you're inside the repository using:
+```
+cd W26-Coding-Workshop
+```
+Then, create a branch with a descriptive name using:
+```
+git checkout -b your-name-python
+```
+To check the branch you're currently working on, use:
+```
+git branch
+```
+The current branch will have a `*` next to it.
+
 ### 3. Make and save changes
+Now that you're working on your own branch, let's practice some programming skills! <br/>
+Navigate to the folder of the language you want to work on using:
+```
+cd python
+# or
+cd r
+```
+Create a new file using the following naming structure so we can keep track of your work:
+```
+touch yourname_task.py
+# or
+touch yourname_task.R
+```
+
 ### 4. Push to GitHub
 ### 5. Open a pull request
-
----
-
-Now that we've gone over the basic GitHub workflow, let's practice some programming skills!
+### 6. Sync your local repo
 
 ---
 
