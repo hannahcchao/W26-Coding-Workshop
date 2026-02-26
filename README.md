@@ -102,9 +102,15 @@ git push origin your-branch-name
 To submit your work to be added to the main repository, you have to send a pull request. <br/>
 First, go to your fork on GitHub. Then, click on "Compare & pull request" as shown below. <br/>
 <img width="1360" height="92" alt="image" src="https://github.com/user-attachments/assets/f3680abc-0355-4a11-8012-b77752bc1bbb" />
-Add a title to your pull request and click "Create Pull Request"
+Add a title to your pull request and click "Create Pull Request". Your pull request will be reviewed and merged to the main repository. <br/>
 
 ### 6. Sync your local repo
+Now that we've made changes to our main repository, we want to reflect those changes on our local files. To do this, use the following commands:
+```
+git checkout main
+git pull origin main
+```
+Now our project is up to date and you've learned the basic GitHub workflow!
 
 ---
 
