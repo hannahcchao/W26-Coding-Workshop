@@ -54,7 +54,7 @@ git branch
 ```
 The current branch will have a `*` next to it. <br/>
 
-Note: If you want to switch to another branch, use the command:
+**Note:** If you want to switch to another branch, use the command:
 ```
 git checkout <branch-name>
 ```
@@ -73,8 +73,18 @@ touch yourname_task.py
 # or
 touch yourname_task.R
 ```
+On VS Code, you can also create a new file by right clicking in the designated folder (either python/R), and selecting New File.
+
+**Practice:** Each folder will have a README.md file with fundamentals of each programming language. Use these tutorials to create a small programming exercise that showcases a fundamental python or R skill. Be sure to save your work as you go!
+
+To see your new file and any modified files, use command:
+```
+git status
+```
 
 ### 4. Push to GitHub
+
+
 ### 5. Open a pull request
 ### 6. Sync your local repo
 
