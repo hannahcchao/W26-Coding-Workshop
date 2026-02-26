@@ -75,15 +75,28 @@ touch yourname_task.R
 ```
 On VS Code, you can also create a new file by right clicking in the designated folder (either python/R), and selecting New File.
 
-**Practice:** Each folder will have a README.md file with fundamentals of each programming language. Use these tutorials to create a small programming exercise that showcases a fundamental python or R skill. Be sure to save your work as you go!
+**Practice:** Each folder will have a README.md file with fundamentals of each programming language. Use these tutorials to create a small programming script that showcases a fundamental python or R skill. Be sure to save your work as you go!
 
 To see your new file and any modified files, use command:
 ```
 git status
 ```
 
-### 4. Push to GitHub
+### 4. Stage, commit, and push to GitHub
+Now that you've created a programming script, let's learn how to push it to our project.
 
+First, you have to stage, or prepare your changes. This essentially tells Git which files you want to include. Since we want to include all our changes, we use the command:
+```
+git add .
+```
+Then, we want to save a snapshot of our changes with a message describing our edits. Use the following command:
+```
+git commit -m "your message here"
+```
+Now you're ready to upload your work to your forked repository.
+```
+git push origin your-branch-name
+```
 
 ### 5. Open a pull request
 ### 6. Sync your local repo
