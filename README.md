@@ -17,8 +17,8 @@ Here's a GitHub tutorial you can also refer to: https://docs.github.com/en/get-s
 ### 1. Create your own copy of the repository
 #### Forking
 Forking allows you to create a copy of an existing repository on your own account. This lets you make your own changes without changing the original repository. <br/>
-Let's try forking this repository! Click the fork button at the top right corner of this workshop repository to create your own copy.
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/77505364-91f6-4ae5-b4ec-2e9c855a0d79" />
+Let's try forking this repository! Click the fork button at the top right corner of this workshop repository to create your own copy. <br/>
+<img src="images/fork.png" width="500">
 
 #### Cloning
 Cloning creates a version of the repository on your computer so you can make edits locally. <br/>
@@ -27,14 +27,13 @@ Try cloning your forked repository to your local machine. In VS Code or your ter
 git clone <your-fork-url>
 ```
 To find your fork url, click on the green code button and copy url as shown below. <br/>
-<img width="40%" alt="image" src="https://github.com/user-attachments/assets/2cb59a57-5466-4cb2-8d39-fd8b07490974"/>
+<img src="images/code.png" width="450">
 
-If you're getting an error saying "Invalid username or token", you may need to create a Personal Access Token. <br/>
-Go to Settings -> Developer Settings (at the bottom left) -> Personal Access Tokens. Then generate a token (classic), give access to repo, and set expiration to 7 days. Paste the token when prompted and this should solve the error.
+**Tip:** If you're getting an error saying "Invalid username or token", you may need to create a Personal Access Token. Go to Settings -> Developer Settings (at the bottom left) -> Personal Access Tokens. Then generate a token (classic), give access to repo, and set expiration to 7 days. Paste the token when prompted and this should solve the error.
 
 You should now have a local version of the repository on your computer. Open the repository folder on VS Code. The folder structure should look something like this: <br/>
 
-<img width="256" height="173" alt="image" src="https://github.com/user-attachments/assets/b7afc7a2-6b51-4f58-80b5-dd7a0a855a91" />
+<img src="images/outline.png" width="300">
 
 
 ### 2. Create a branch
@@ -101,7 +100,7 @@ git push origin your-branch-name
 ### 5. Open a pull request
 To submit your work to be added to the main repository, you have to send a pull request. <br/>
 First, go to your fork on GitHub. Then, click on "Compare & pull request" as shown below. <br/>
-<img width="1360" height="92" alt="image" src="https://github.com/user-attachments/assets/f3680abc-0355-4a11-8012-b77752bc1bbb" />
+<img src="images/pull.png" width="800"> <br/>
 Add a title to your pull request and click "Create Pull Request". Your pull request will be reviewed and merged to the main repository. <br/>
 
 ### 6. Sync your local repo
