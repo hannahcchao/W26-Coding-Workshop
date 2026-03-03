@@ -5,13 +5,15 @@ def main():
     c = []
     g = []
     for letter in dna:
-        if(letter == "a"):
+        if letter == "A":
             a.append(letter)
-        elif(letter == "t"):
-            a.append(letter)
-        elif(letter == "c"):
-            a.append(letter)
-        elif(letter == "g"):
-            a.append(letter)
-    freq = {"A": a.len(), "T": t.len(), "C": c.len(), "G": g.len()}
-    return freq
+        elif letter == "T":
+            t.append(letter)
+        elif letter == "C":
+            c.append(letter)
+        elif letter == "G":
+            g.append(letter)
+            
+    freq = {"A": len(a), "T": len(t), "C": len(c), "G": len(g)}
+    return (freq)
+print(main())
