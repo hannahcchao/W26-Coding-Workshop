@@ -113,10 +113,3 @@ Now our project is up to date and you've learned the basic GitHub workflow!
 
 ---
 
-## Repository Structure
-This repository is organized into:
-- `challenges/` — Optional coding challenges
-- `python/` — Python exercises
-- `r/` — R exercises
-
-Each folder contains its own README with contribution instructions.
