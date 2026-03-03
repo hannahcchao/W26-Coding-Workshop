@@ -60,21 +60,17 @@ git checkout <branch-name>
 
 ### 3. Make and save changes
 Now that you're working on your own branch, let's practice some programming skills! <br/>
-Navigate to the folder of the language you want to work on using:
+Navigate to the python folder using:
 ```
 cd python
-# or
-cd r
 ```
 Create a new file using the following naming structure so we can keep track of your work:
 ```
 touch yourname_task.py
-# or
-touch yourname_task.R
 ```
-On VS Code, you can also create a new file by right clicking in the designated folder (either python/R), and selecting New File.
+On VS Code, you can also create a new file by right clicking in the designated folder (python), and selecting New File.
 
-**Practice:** Each folder will have a README.md file with fundamentals of each programming language. Use these tutorials to create a small programming script that showcases a fundamental python or R skill. Be sure to save your work as you go!
+**Practice:** The python folder has a README.md file reviewing the fundamentals of python. After we go through this tutorial, you will all get to work on a python exercise that we can add to this repo. Be sure to save your work as you go!
 
 To see your new file and any modified files, use command:
 ```
