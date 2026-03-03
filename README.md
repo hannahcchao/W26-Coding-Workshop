@@ -4,7 +4,7 @@ Welcome to the Winter '26 Intro to GitHub & Coding Workshop!
 
 In this workshop, CBS members will learn:
 - The fundamentals of Git and GitHub workflow
-- The fundamentals of Python and R programming
+- The fundamentals of Python programming
 - How to contribute to a programming project on a shared repository
 
 First, make sure you have Git downloaded. Download the correct version based on your operating system here: https://git-scm.com/install/
